@@ -10,7 +10,7 @@ const Page = () => {
           viewBox="0 0 24 24"
           strokeWidth={1.5}
           stroke="currentColor"
-          className="w-24 h-24 fill-blue-500 stroke-yellow-800"
+          className="w-24 h-24 fill-blue-500 stroke-yellow-800 stroke-2"
         >
           <path
             strokeLinecap="round"
